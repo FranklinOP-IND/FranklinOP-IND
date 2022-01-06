@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React , Angular**
 
-- 👯 I’m looking to collaborate on **Dogecoin, Blockchin**
+- 👯 I’m looking to collaborate on **Blockchin**
 
 - 💬 Ask me about **Lua , DDos , API**
 
