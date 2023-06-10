@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
-- 💬 Ask me about **Lua , DDos , API , Stock & Forex , Reverse Engineering  **
+- 💬 Ask me about **Lua , DDos , API , Stock & Forex , Reverse Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
