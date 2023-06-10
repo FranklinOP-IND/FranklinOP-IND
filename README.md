@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklinop-ind&label=Profile%20views&color=0e75b6&style=flat" alt="franklinop-ind" /> </p>
 
