@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Frank</h1>
 
 ## Software engineer | Blockchaine developer    
- this is my new account, i will be active here from now on.
  ##  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" align="left" widht="32" height="32">   Blockchaine
-
-
  ##  <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" align="left" widht="32" height="32">       Cyber Security
  ##  <img src="https://media.giphy.com/media/j6MwR2b2DEQz2TS5bV/giphy.gif" align="left" widht="32" height="32">      AI
 
