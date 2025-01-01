@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm Frank</h1>
+
+
 <img src="https://media.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif"  align="right" widht="400" height="480">
+
+
+
 ## Software engineer | Blockchaine developer    
  ##  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" align="left" widht="32" height="32">   Blockchaine
  ##  <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" align="left" widht="32" height="32">       Cyber Security
@@ -7,7 +12,6 @@
 
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/> ](https://www.linkedin.com/in/elif-vural-61547a268/)
- 
  
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left"/> ](https://instagram.com/elifnvural?igshid=ZGUzMzM3NWJiOQ==)
 <br></br>
@@ -21,9 +25,6 @@
     {
         coffee.drink();
     }
- 
-
-
 <br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklinop-ind&label=Profile%20views&color=0e75b6&style=flat" alt="franklinop-ind" /> </p>
