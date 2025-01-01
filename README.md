@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Frank</h1>
-<img src="https://media.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif"  align="right" widht="500" height="520">
+<img src="https://media.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif"  align="right" widht="400" height="480">
 ## Software engineer | Blockchaine developer    
  ##  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" align="left" widht="32" height="32">   Blockchaine
  ##  <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" align="left" widht="32" height="32">       Cyber Security
