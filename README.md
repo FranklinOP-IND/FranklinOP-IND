@@ -5,6 +5,27 @@
  ##  <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" align="left" widht="32" height="32">       Cyber Security
  ##  <img src="https://media.giphy.com/media/j6MwR2b2DEQz2TS5bV/giphy.gif" align="left" widht="32" height="32">      AI
 
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/> ](https://www.linkedin.com/in/elif-vural-61547a268/)
+ 
+ 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left"/> ](https://instagram.com/elifnvural?igshid=ZGUzMzM3NWJiOQ==)
+<br></br>
+
+    Coffee coffee=new Coffe();
+    if(coffee.empty)
+    {
+        coffee.reffill();
+    }
+    else
+    {
+        coffee.drink();
+    }
+ 
+
+
+<br></br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklinop-ind&label=Profile%20views&color=0e75b6&style=flat" alt="franklinop-ind" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklinop-ind" alt="franklinop-ind" /></a> </p>
