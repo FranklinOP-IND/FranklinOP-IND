@@ -5,7 +5,7 @@
 
 
 
-## Software engineer | Blockchaine developer    
+## Software engineer | blockchain developer | Node | React-Native | .NET | .MAUI | Reverse Engineering
  ##  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" align="left" widht="32" height="32">   Blockchaine
  ##  <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" align="left" widht="32" height="32">       Cyber Security
  ##  <img src="https://media.giphy.com/media/j6MwR2b2DEQz2TS5bV/giphy.gif" align="left" widht="32" height="32">      AI
